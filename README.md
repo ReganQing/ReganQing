@@ -30,7 +30,3 @@
 ### 我在学 / 近期关注
 - 把 AI 应用到工程项目中（例如：开发辅助、自动化脚本、推理服务集成）  
 - 后端微服务/模块化、前端性能与工程化实践、CI/CD 与自动化部署
-
-![ReganQing's GitHub stats](https://github-readme-stats.vercel.app/api?username=ReganQing&show_icons=true&count_private=true&theme=default)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReganQing&layout=compact&theme=default)
