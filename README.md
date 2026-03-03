@@ -22,7 +22,6 @@
 - 其他：RESTful API、GraphQL、自动化测试、性能优化、容器化部署
 
 ### 联系方式
-- 邮箱：1583****@163.com（建议脱敏以减少垃圾邮件；如需展示完整邮箱请告知）  
 - GitHub：[@ReganQing](https://github.com/ReganQing)  
 - CSDN: [@秦哈哈](https://blog.csdn.net/qq_41488033)
 
@@ -32,13 +31,6 @@
 - 把 AI 应用到工程项目中（例如：开发辅助、自动化脚本、推理服务集成）  
 - 后端微服务/模块化、前端性能与工程化实践、CI/CD 与自动化部署
 
----
-
-### 可选：GitHub 统计卡（如果你愿意展示）
-```md
-<!-- GitHub 贡献统计 -->
 ![ReganQing's GitHub stats](https://github-readme-stats.vercel.app/api?username=ReganQing&show_icons=true&count_private=true&theme=default)
 
-<!-- 语言分布 -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReganQing&layout=compact&theme=default)
-```
