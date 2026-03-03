@@ -22,9 +22,8 @@
 - 其他：RESTful API、GraphQL、自动化测试、性能优化、容器化部署
 
 ### 联系方式
-- 邮箱：1583****@163.com（建议脱敏以减少垃圾邮件；如需展示完整邮箱请告知）  
-- GitHub：[@ReganQing](https://github.com/ReganQing)  
-- CSDN: [@秦哈哈](https://blog.csdn.net/qq_41488033)
+- GitHub：[ReganQing](https://github.com/ReganQing)  
+- CSDN: [秦哈哈](https://blog.csdn.net/qq_41488033)
 
 ---
 
