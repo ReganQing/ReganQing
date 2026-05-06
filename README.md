@@ -14,10 +14,10 @@
 
 ### 技能概览
 - 语言：Java、Python、JavaScript / TypeScript  
-- 后端：Spring Boot、Django / Flask、Node.js (Express/Koa)  
+- 后端：Spring Boot、Django / Flask、Node.js (Express)  
 - 前端：React、Vue、HTML、CSS、Webpack / Vite  
-- 数据库：MySQL、PostgreSQL、Redis
-- AI: RAG、MCP、Skills、Agent、Workflow  
+- 数据库：MySQL、PostgreSQL、Redis、MongoDB
+- AI: RAG、MCP、Skill、Agent、Workflow、Harness Engineering  
 - 工具与平台：Git、Docker、CI/CD（GitHub Actions）、Nginx、Linux  
 - 其他：RESTful API、GraphQL、自动化测试、性能优化、容器化部署
 
