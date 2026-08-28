@@ -1,32 +1,32 @@
-# Hi, I’m ReganQing 👋
+# Hi, I'm ReganQing 👋
 
-> 软件开发工程师 · 熟悉 Java、Python、JavaScript · 前后端均有实践  
-> 兴趣：开源、AI 与各种有意思的技术点 · 致力于成为与时俱进的软件开发工程师
-
----
-
-### 关于我
-- 🔭 我是软件开发工程师，工作/实践涵盖前端与后端开发。  
-- 🌱 我持续学习现代后端架构、前端工程化、以及与 AI 结合的开发实践。  
-- 💡 兴趣包括：开源贡献、人工智能应用、以及有趣的技术点与工具链优化。  
+> Software Development Engineer · Proficient in Java, Python, JavaScript · Full-stack experience  
+> Passionate about: Open source, AI, and emerging technologies · Dedicated to staying current in software development
 
 ---
 
-### 技能概览
-- 语言：Java、Python、JavaScript / TypeScript  
-- 后端：Spring Boot、Django / Flask、Node.js (Express)  
-- 前端：React、Vue、HTML、CSS、Webpack / Vite  
-- 数据库：MySQL、PostgreSQL、Redis、MongoDB
-- AI: RAG、MCP、Skill、Agent、Workflow、Harness Engineering  
-- 工具与平台：Git、Docker、CI/CD（GitHub Actions）、Nginx、Linux  
-- 其他：RESTful API、GraphQL、自动化测试、性能优化、容器化部署
+### About Me
+- 🔭 I'm a software development engineer with hands-on experience in both frontend and backend development.  
+- 🌱 I continuously learn modern backend architecture, frontend engineering practices, and AI-driven development.  
+- 💡 Interested in: Open source contributions, AI applications, interesting tech stacks, and toolchain optimization.  
 
-### 联系方式
-- GitHub：[@ReganQing](https://github.com/ReganQing)  
+---
+
+### Skills Overview
+- Languages: Java, Python, JavaScript / TypeScript  
+- Backend: Spring Boot, Django / Flask, Node.js (Express)  
+- Frontend: React, Vue, HTML, CSS, Webpack / Vite  
+- Databases: MySQL, PostgreSQL, Redis, MongoDB
+- AI: RAG, MCP, Skill, Agent, Workflow, Harness Engineering  
+- Tools & Platforms: Git, Docker, CI/CD (GitHub Actions), Nginx, Linux  
+- Others: RESTful API, GraphQL, Automated Testing, Performance Optimization, Containerized Deployment
+
+### Contact
+- GitHub: [@ReganQing](https://github.com/ReganQing)  
 - CSDN: [@秦哈哈](https://blog.csdn.net/qq_41488033)
 
 ---
 
-### 我在学 / 近期关注
-- 把 AI 应用到工程项目中（例如：开发辅助、自动化脚本、推理服务集成）  
-- 后端微服务/模块化、前端性能与工程化实践、CI/CD 与自动化部署
+### Currently Learning / Recent Focus
+- Integrating AI into engineering projects (e.g., development assistance, automation scripts, inference service integration)  
+- Microservices & modularity on backend, frontend performance & engineering practices, CI/CD & automated deployment
