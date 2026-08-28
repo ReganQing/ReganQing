@@ -29,4 +29,4 @@
 
 ### Currently Learning / Recent Focus
 - Integrating AI into engineering projects (e.g., development assistance, automation scripts, inference service integration)  
-- Microservices & modularity on backend, frontend performance & engineering practices, CI/CD & automated deployment
+- Create interesting ai videos.
